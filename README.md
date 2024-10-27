@@ -1,12 +1,14 @@
 ## Hi there 👋
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=amiralamf4&label=Profile%20Views&icon=6&pretty=true" />
+</a>
 - 🔭 I’m currently pushing Computer application(BCA).
 - 🌱 I’m currently learning React and MySql.
 - 💬 Ask me about regarding my skills.
 - 📫 How to reach me: Insta/salaar_sikandar_18
 - ⚡ Fun fact: coding like a gf. It made you mad but you can't avoid it.😂
 
-[![](https://visitcount.itsvg.in/api?id=amiralamf4&icon=10&color=9)](https://visitcount.itsvg.in)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
