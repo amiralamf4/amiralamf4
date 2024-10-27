@@ -11,6 +11,8 @@
 ---
 
 ### ✍️ Random Dev Quote
+[![](https://visitcount.itsvg.in/api?id=amiralamf4&icon=10&color=9)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/salaar_sikandar_18/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/amiralamf4) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AmirAlam72135) 
 
