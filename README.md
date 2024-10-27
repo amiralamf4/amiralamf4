@@ -8,8 +8,7 @@
 ---
 
 ### ✍️ Random Dev Quote <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=amiralamf4&label=Profile%20Views&icon=6&pretty=true" />
-  </a>
+  <img src="https://visitcount.itsvg.in/api?id=amiralamf4&label=Profile%20Views&icon=6&pretty=true"/a>
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ## 🌐 Socials:
