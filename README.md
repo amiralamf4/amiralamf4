@@ -5,7 +5,7 @@
 - 💬 Ask me about regarding my skills.
 - 📫 How to reach me: Insta/salaar_sikandar_18
 - ⚡ Fun fact: coding like a gf. It made you mad but you can't avoid it.😂
-- ---
+
 [![](https://visitcount.itsvg.in/api?id=amiralamf4&icon=10&color=9)](https://visitcount.itsvg.in)
 
 ### ✍️ Random Dev Quote
