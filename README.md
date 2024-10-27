@@ -6,9 +6,6 @@
 - 📫 How to reach me: Inst/salaar_sikandar_18
 - ⚡ Fun fact: coding like a gf. It made you mad but you can't avoid it.😂
 - ---
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=amiralamf4&label=Profile%20Views&color=9&pretty=true" />
-</a>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 ## 🌐 Socials:
